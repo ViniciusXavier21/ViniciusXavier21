@@ -19,7 +19,6 @@
 - 🏆 Bolsista **100% ISMART** — Instituto Social para Motivar, Apoiar e Reconhecer Talentos
 - 💻 Foco em **desenvolvimento Front-End, Back-End, Web & Mobile**
 - 🌍 Inglês **intermediário-avançado**, em constante evolução
-- 📬 Me encontre no [LinkedIn](https://www.linkedin.com/in/vinicius--xavier/)
 
 ---
 
