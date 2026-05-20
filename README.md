@@ -1,16 +1,58 @@
-## Hi there 👋
+<h1 align="center">Oi, eu sou o Vinicius Xavier 👋</h1>
 
-<!--
-**ViniciusXavier21/ViniciusXavier21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Estudante de Ciência da Computação · IMT (Bolsista 100% ISMART) · São Paulo</b>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/vinicius--xavier/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Disponível%20para%20estágio-00c8ff?style=for-the-badge"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Sobre mim
+
+- 🎓 Cursando **Ciência da Computação** no Instituto Mauá de Tecnologia (3º semestre)
+- 🏆 Bolsista **100% ISMART** — Instituto Social para Motivar, Apoiar e Reconhecer Talentos
+- 💻 Foco em **desenvolvimento Front-End, Back-End, Web & Mobile**
+- 🌍 Inglês **intermediário-avançado**, em constante evolução
+- 📬 Me encontre no [LinkedIn](https://www.linkedin.com/in/vinicius--xavier/)
+
+---
+
+### 🛠️ Tecnologias
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+---
+
+### 📂 Projetos em destaque
+
+#### 🚇 [Condução SP — IMT × Metrô de São Paulo](https://github.com/gLariii/PI---ConduSP)
+> Jogo interativo point & click para capacitação dos operadores da Linha 1-Azul do Metrô SP.  
+> Stack: **Java · JavaFX · MySQL · MVC**
+
+#### 🏫 [AgenTEC — Plataforma de Agendamento de Laboratórios](https://github.com/gacsilva2005/AgenTEC)
+> Sistema web para gestão de laboratórios em parceria com o Centro Paula Souza e ETEC Irmã Agostina.  
+> Stack: **HTML · CSS · JavaScript · Node.js · MySQL**
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ViniciusXavier21&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusXavier21&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
