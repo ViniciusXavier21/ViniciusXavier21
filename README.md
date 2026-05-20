@@ -41,6 +41,7 @@
 
 #### 💦 [Aquality-CO — Monitoramento de Hidratação Esportiva](https://github.com/gacsilva2005/SC_HydraSense)
 > Software Web & Mobile para acompanhamento da taxa de sudorese e gestão em tempo real da hidratação de atletas.
+
 > Stack: **React Native · Expo · TypeScript · Node.js · MySQL · Spring Boot · CSS**
 
 #### 🚇 [Condução SP — IMT × Metrô de São Paulo](https://github.com/gLariii/PI---ConduSP)
